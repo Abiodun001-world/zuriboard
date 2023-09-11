@@ -12,4 +12,4 @@ The endpoint should take two GET request query parameters and return specific in
 - The GitHub URL of the full source code.
 - A  Status Code of Success
 
-The solution link is:https://api-service-slack.onrender.com/api?slack_name=Abiodun%20Adekunle&track=backend
+The solution link is : https://api-service-slack.onrender.com/api?slack_name=Abiodun%20Adekunle&track=backend
