@@ -1,0 +1,23 @@
+{
+  "name": "zuriboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abiodun001-world/zuriboard.git"
+  },
+  "keywords": [],
+  "author": "Abiodun Adekunle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abiodun001-world/zuriboard/issues"
+  },
+  "homepage": "https://github.com/Abiodun001-world/zuriboard#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
